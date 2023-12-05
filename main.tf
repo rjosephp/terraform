@@ -1,4 +1,5 @@
-/*resource "azurerm_resource_group" "azrg" {
+resource "azurerm_resource_group" "azrg" {
   name     = var.RGNAME
   location = var.RGLOCATION
-}*/
+}
+#added 
